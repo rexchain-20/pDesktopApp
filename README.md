@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Python Desktop App
 
@@ -18,3 +19,6 @@ The advantage of using pywebview is that:
 - Cross Platform (macOS, Windows, Linux)
 
 > Code updated to work with Python 3.10 and other latest software versions.
+=======
+# pDesktopApp
+>>>>>>> 887fac952e0ba994bc372c68a02341b2aac8829f
